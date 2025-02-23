@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/board/SquareBoard.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/board/AbstractBoard.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/ai/Node.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/Draughts101.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/ai/MinMax.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/game/Game.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/board/Orange.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/ai/Diagonal.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/game/Move.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/board/Board.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/ai/AI.java</file>
+            <file>file:/C:/Users/van%20Foeken/Documents/NetBeansProjects/draughts101/src/draughts101/game/Direction.java</file>
+        </group>
+    </open-files>
+</project-private>
