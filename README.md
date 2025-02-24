@@ -1,2 +1,2 @@
 # Draughts101
-Java Sqing International Draughts With AI
+Java Swing International Draughts With AI
